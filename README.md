@@ -5,5 +5,5 @@ Dependencies
 
 Frontend : Galleria
 
-Backend : Python 2.7; Modules (beautifulsoup, tldextractor,pytagcloud,pygame)
+Backend : Python 2.7; Modules (beautifulsoup, tldextract,pytagcloud,pygame)
 
