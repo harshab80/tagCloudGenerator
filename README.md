@@ -1,5 +1,5 @@
 # tagCloudGenertor
-Generate tag cloud using Python with PHP front end
+This python script performs Google search for the given keyword and generates tag cloud using Python with PHP front end.
 
 Dependencies
 
